@@ -30,5 +30,5 @@ Libraries: Numpy, Pandas, Scipy, Matplotlib, Seaborn, Scikit-learn, XGBoost<br>
 ## Project Files
 * [README]
 * [Project]
-* [Train Dataset]
+* [Train Dataset](https://github.com/Ericjung008/Loan-Prediction/blob/master/Loan.csv.zip)
 * [Data Dictionary]
