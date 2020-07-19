@@ -1,4 +1,4 @@
-# Loan-Prediction
+# Loan Prediction
 This is a project assigned to me during [theDevMasters](https://www.thedevmasters.com) bootcamp.<br> 
 
 ## Introduction
@@ -28,7 +28,7 @@ Programming Language: Python 3.7.4<br>
 Libraries: Numpy, Pandas, Scipy, Matplotlib, Seaborn, Scikit-learn, XGBoost<br>
 
 ## Project Files
-* [README]
-* [Project]
+* [README](https://github.com/Ericjung008/Loan-Prediction/commit/bcb39946ae007aaefd5e42e8392bff7673ca2ff1)
+* [Project](https://github.com/Ericjung008/Loan-Prediction/blob/master/Loan.ipynb)
 * [Train Dataset](https://github.com/Ericjung008/Loan-Prediction/blob/master/Loan.csv.zip)
-* [Data Dictionary]
+* [Data Dictionary](https://github.com/Ericjung008/Loan-Prediction/blob/master/loan%20data%20dictionary.docx)
