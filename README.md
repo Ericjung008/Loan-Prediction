@@ -17,7 +17,7 @@ The following steps were taken to complete the project:
 5. Creating New Features
 6. Encoding
 7. Selecting Best Model
-8. Optimizing Threshol
+8. Optimizing Threshold
 9. Visualizing Five Best Features
 
 ## Model Selection
