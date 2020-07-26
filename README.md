@@ -14,14 +14,14 @@ The F1 Score was used as the evaluation metric for this project. The metric scor
 ## Approach
 The following steps were taken to complete the project:
 1. Import libraries and datasets
-2. Cleaning Data
-3. Analyzing Target Variable
-4. Imputing Missing Values
-5. Creating New Features
-6. Encoding
-7. Selecting Best Model
-8. Optimizing Threshold
-9. Visualizing Five Best Features
+2. Clean Data
+3. Analyze Target Variable
+4. Impute Missing Values
+5. Create New Features
+6. Encode Categorical Columns
+7. Select Best Model
+8. Optimize Threshold
+9. Visualize Five Best Features
 
 ## Model Selection
 The model was chosen based on the highest Receiver Operating Characteristic Area Under the Curve score.
