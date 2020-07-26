@@ -13,7 +13,7 @@ The F1 Score was used as the evaluation metric for this project. The metric scor
 
 ## Approach
 The following steps were taken to complete the project:
-1. Import libraries and datasets
+1. Import libraries and dataset
 2. Clean Data
 3. Analyze Target Variable
 4. Impute Missing Values
