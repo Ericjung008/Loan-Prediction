@@ -8,7 +8,7 @@ potential profit. With machine learning, customers who have a high risk of defau
 ## Objective
 The objective of this project is to predict which customer will default or pay his/her loan.
 
-## Metrics 
+## Metric 
 The F1 Score was used as the evaluation metric for this project. The metric score indicates the harmonic mean between precision and recall.
 
 ## Approach
